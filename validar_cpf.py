@@ -44,16 +44,4 @@ while running:
         else: 
             print('OK, vamos lá novamente')    
     else:
-        print('Digite 9 digitos por favor!') if qtd_caracteres != 9 and cpf.isnumeric() else print('Digite apenas núemros por favor')
-   
-
-
-
-
-
-            
-
-
-
-
-        
+        print('Digite 9 digitos por favor!') if qtd_caracteres != 9 and cpf.isnumeric() else print('Digite apenas núemros por favor')        
